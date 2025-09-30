@@ -3,7 +3,7 @@
 ## Ingrediënten
 - 2 sneetjes brood
 - 2 plakjes kaas
-- 1 plak ham (optioneel)
+- 1 plak ham 
 
 ## Bereiding
 1. Leg kaas (en eventueel ham) tussen de broodjes.
